@@ -6,3 +6,5 @@
 *.db-shm
 *.db-wal
 *.tlog
+Release/GameOwner (1).exe
+Release/Gameowner.ini

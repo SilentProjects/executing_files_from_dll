@@ -3,6 +3,3 @@
 
 # Disclaimer
 - This is for educational use only, please don't use it for malicious purposes.
-
-# Dependencies
-- CUrl

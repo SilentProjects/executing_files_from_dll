@@ -1,4 +1,4 @@
-# Executing Files From DLL
+# Executing Files From A DLL
 - Better PoC for https://www.reddit.com/r/Csgohacks/comments/epbjvj/dll_cheats_are_not_any_lessmore_safe_than_a_loader/
 
 # Disclaimer

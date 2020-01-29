@@ -1,0 +1,8 @@
+
+.vs/executing_files_from_dll/v16/.suo
+*.db
+*.opendb
+*.ipch
+*.db-shm
+*.db-wal
+*.tlog
